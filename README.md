@@ -1,2 +1,2 @@
-# simple-lan-network-service
-simple lan network service using batch
+# simple lan network service
+my first batch file program
